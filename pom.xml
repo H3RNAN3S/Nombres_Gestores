@@ -14,7 +14,7 @@
 	<name>GCCOBRANZAS_COB_GESTOR</name>
 	<description>Nombres Gestores project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 		<azure.version>3.9.0</azure.version>
 	</properties>
 	<dependencies>
